@@ -1,0 +1,17 @@
+.max-width1200 {
+  max-width: 1200px;
+  width: 98%;
+} 
+
+.background {
+  background-color: #fff1ed;
+}
+ .nav-menu {
+  color: #757b8a;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 150%;
+  text-decoration: none;
+}
+
