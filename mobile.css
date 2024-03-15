@@ -20,8 +20,17 @@
     padding-top: 67px;
     padding-bottom: 70px;
   }
-
+  .three-wrap {
+    padding-top: 82px;
+padding-bottom: 64px;
  
+
+}
+.text-top-3 {
+  font-size: 32px;
+  width: 100%;
+  max-width: 500px;
+}
 
 }
 
@@ -75,7 +84,10 @@
   width: 100%;
   max-width: 578px;
 }
-
+.full-two-left {
+  width: 100%;
+  max-width: 568px;
+}
   .full-two-right {
     transform: translate(0, 0);
   }
@@ -91,7 +103,9 @@ width: 45%;
   max-width: 187px;
     width: 35%;
 }
-
+.button-img-wrap{
+  margin-bottom: 52px;
+}
 .sect-two{
   padding: 0;
   padding-top: 30px;
@@ -102,12 +116,87 @@ flex-direction: column;
   gap: 24px;
  justify-content: center;
 }
+.sect-4 { 
+  padding-top: 104px;
+  padding-bottom: 80px;
 
+}
 .sect-4-wrap {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.left-4-img {
+ display: none;
+}
+.left-4-cont {
+  width: 100%;
+  max-width: 500px;
+
+}
+.left-4-man-img{
+  margin-bottom: 15px;
+  margin-top: 0;
+  width: 100%;
+  max-width: 500px;
+}
+.right-4-cont {
+  display: flex;
+ 
+  justify-content: center;
+  margin-left: 0;
+  max-width: 500px;
+  width: 100%;
+}
+
+
+.text-4-top{
+  color: rgb(16, 16, 16);
+  font-family: Archivo;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 120%;
+  
+}
+.parag-4-text {
+  margin-bottom: 40px;
+  margin-top: 0;
+
+}
+.right-4-bottom-wrap{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.sect-5-wrap {
+  width: 100%;
+  max-width: 500px;
+  padding-top: 61px;
+  padding-bottom: 69px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top-5-text {
+  font-size: 32px;
+  padding: 0;
+  margin-bottom: 65px;
+}
+.right-5-block {
+  display: flex;
+  flex-direction: column;
+align-items: center;
+justify-content: center;
+margin: 0;
+}
+.sect-5-text-wrap {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 32px;
+}
+.sect-5-top-paragraph {
+margin-bottom: 16px;
 }
 
 
@@ -379,8 +468,3 @@ flex-direction: column;
   /* width: 100%; */
   height: auto;
 }
-
-
-
-
-/*  */
